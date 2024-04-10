@@ -1,4 +1,4 @@
-- 👋 Hi Folks, I’m @JLeiva44
+- 👋 Hi there, I’m José Luis Leiva Fleitas
 - 👀 I’m interested in Maths, Computer Science and I´m also a music enthusiast
 - 🌱 I’m currently studying Computer Science at University of Havana 
 - 📫 You can find me on Telegram @joseLLF
