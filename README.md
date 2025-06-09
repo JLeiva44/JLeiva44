@@ -1,29 +1,29 @@
-# Hi there 👋, I'm Jose Luis
+# 👨‍💻 Jose Luis | Backend Developer & Tech Enthusiast
 
-🎓 I graduated in **Computer Science** from the University of Havana, and I’m currently growing as a **Backend Developer**. I enjoy solving complex problems, building scalable systems, and constantly improving my skills.
-
-🚀 I'm passionate about **blockchain technology** and actively learning more about its ecosystem and development tools.
-
-🎵 Outside of coding, I love listening to music and spending time in the countryside – both help me recharge and stay inspired.
+Hi there! I'm **Jose Luis**, a **Computer Science graduate from the University of Havana**. I'm currently working as a **backend developer**, though I have a solid general background in software development and a strong passion for technology.
 
 ---
 
-### 🛠️ Tech Stack & Interests
+## 🛠 Technologies & Tools
 
-- **Languages:** Python, JavaScript, SQL
-- **Backend:** Node.js, Express, Flask
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Postman
-- **Learning:** Blockchain, Smart Contracts, Solidity
+- **Programming Languages:** C# / .NET · Python · JavaScript  
+- **Frontend:** HTML · CSS  
+- **Databases:** SQL  
+- **Containers & DevOps:** Docker · Git  
+- **Additional Interests:** Blockchain · Cryptography · Distributed Systems
 
 ---
 
-### 📫 How to reach me:
+## 🚀 About Me
 
-Feel free to connect or reach out:
+I'm a developer who’s always learning, focused on writing clean, maintainable, and efficient code. I enjoy exploring new technologies and tackling challenging projects — especially those related to modern infrastructure, decentralization, and scalable systems.
 
-- Email: your.email@example.com *(replace with your actual email)*
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+---
 
-Thanks for stopping by! 👨‍💻✨
+## 📫 Contact
+
+Interested in collaborating or just want to chat tech?  
+Reach me at: **[josehle@protonmail.com](mailto:josehle@protonmail.com)**
+
+---
+
