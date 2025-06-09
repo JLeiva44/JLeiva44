@@ -6,10 +6,8 @@ Hi there! I'm **Jose Luis**, a **Computer Science graduate from the University o
 
 ## 🛠 Technologies & Tools
 
-- **Programming Languages:** C# / .NET · Python · JavaScript  
-- **Frontend:** HTML · CSS  
-- **Databases:** SQL  
-- **Containers & DevOps:** Docker · Git  
+- **Programming Languages:** C# / .NET · Python · JavaScript · SQL · HTML · CSS   
+- **Others:** Docker · Git  
 - **Additional Interests:** Blockchain · Cryptography · Distributed Systems
 
 ---
